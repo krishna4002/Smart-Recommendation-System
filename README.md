@@ -108,7 +108,8 @@ PINECONE_ENV=your_pinecone_environment
 Place your cleaned:
 - `books.csv`
 - `movies.csv`
-- `songs.csv` 
+- `songs.csv`
+  
 into the `Data/` folder. (Datasets from Kaggle recommended)
 
 ### 5. Index your data
